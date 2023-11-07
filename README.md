@@ -11,4 +11,4 @@ This repository is for a git tutorial presentation on 2023-11-07. The exercises 
 ## Exercises
 1.  Create your own local git repository. Add a `.gitignore` file an a `readme.md` file and include them in a commit.
 2.  [Recovering file history](https://github.com/n-wbrown/git_exercises_file_history)
-3.  Merge two branches
+3.  [Merge two branches](https://github.com/n-wbrown/git_exercises_merging)
