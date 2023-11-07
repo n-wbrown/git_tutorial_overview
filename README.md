@@ -9,7 +9,6 @@ This repository is for a git tutorial presentation on 2023-11-07. The exercises 
 1. Optional: Install Visual Studio Code. Visual studio code has a helpful git interface. I recommend this for anyone not comfortable with a command line. [install Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Exercises
-1. [Recovering lost history](https://github.com/n-wbrown/git_exercises_file_history)
-
-
-
+1.  Create your own local git repository. Add a `.gitignore` file an a `readme.md` file and include them in a commit.
+2.  [Recovering file history](https://github.com/n-wbrown/git_exercises_file_history)
+3.  Merge two branches
